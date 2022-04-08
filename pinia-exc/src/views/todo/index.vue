@@ -113,7 +113,7 @@
     display: none;
   }
   .btn2:hover {
-    background-color: rgb(220, 50, 20);
+    background-color: rgb(230, 53, 22);
     display: none;
   }
 </style>
